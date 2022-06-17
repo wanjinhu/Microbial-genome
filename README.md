@@ -1,5 +1,7 @@
 # 基因组组装调研测试材料
 
+## 这是对git分支练习添加的信息
+
 ## _de novo DNA assembly(short and long reads)_
 1. Unicycler: https://github.com/rrwick/Unicycler
 
